@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋🏾
 
 <!-- **mrloulass/mrloulass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
@@ -8,5 +8,5 @@
 - 🌱 I’m currently learning FullStack Development at Codefellows.
 - 👯 I’m looking to collaborate on any projects to learn and grow.
 
-- 😄 Pronouns: He/Him
+- 👨🏾‍🦲 Pronouns: He/Him
 - ⚡ Fun fact: I enjoy the creative side of coding.
