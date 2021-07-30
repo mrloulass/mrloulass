@@ -7,7 +7,6 @@
 - 🔭 I’m currently working on labs and projects for course work at CodeFellows.
 - 🌱 I’m currently learning FullStack Development at Codefellows.
 - 👯 I’m looking to collaborate on any projects to learn and grow.
-- 🤔 I’m looking for help with any projects to learn and grow.
 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I enjoy the creative side of coding.
