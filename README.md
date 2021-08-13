@@ -2,7 +2,7 @@
 
 <!-- **mrloulass/mrloulass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-- 💬 I am Louis Lassegue, a Full-Stack Software Developer. After 15 years in a retail environment specializing in inventory, logistics, and customer service. In my past experiences, I’ve learned how to lead a  diverse team in different environments. I’m transitioning to a career in software development. 
+- 💬 I am Louis Lassegue, a Full-Stack Software Developer. After 15 years in a retail environment specializing in inventory, logistics, and customer service. I’ve learned how to lead a  diverse team in different environments. I’m transitioning to a career in software development. 
 
 - 🔭 I’m currently working on labs and projects for course work at CodeFellows.
 - 🌱 I’m currently learning FullStack Development at Codefellows.
