@@ -1,9 +1,8 @@
 ### Hello, I'm Louis Lassegue👋🏾
 
 <!-- **mrloulass/mrloulass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-~~~markdown
+
 💬 I'm a Full-Stack Software Developer. After 15 years in a retail environment specializing in inventory, logistics, and customer service. I’ve learned how to lead a  diverse team in different environments. I’m transitioning to a career in software development.
-~~~
 
 - 🌱 I'm currently looking for a job has a Software Developer.
 - 👯 I’m looking to collaborate on any projects to learn and grow.
