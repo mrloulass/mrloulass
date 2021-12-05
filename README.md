@@ -6,7 +6,7 @@
 
 - 🌱 I'm currently looking for a job has a Software Developer.
 - 📚 I'm currently learning <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg"  alt="TypeScript Logo" width="15px" /> TypeScript.
-- 👯 I’m looking to collaborate on any projects to learn and grow.
+- 👯 I’m looking to collaborate on any projects to learn, grow and contribute.
 - 🥅 My future goal is to learn <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Python.svg"  alt="Python Logo" width="15px" /> Python language.
 - 👨🏾‍🦲 Pronouns: He/Him
 - ⚡ Fun fact: I enjoy traveling 🗺️ and looking for great food to eat. 🍽️
