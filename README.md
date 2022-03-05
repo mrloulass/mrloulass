@@ -34,6 +34,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrloulass&langs_count=7&theme=dark&hide_border=true&text_color=ffff)](https://github.com/mrloulass/github-readme-stats)
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mrloulass&theme=dark&hide_border=true&text_color=ffff&repo=github-readme-stats)
-
 [linkedin]: https://www.linkedin.com/in/louis-lassegue-4269531bb/
