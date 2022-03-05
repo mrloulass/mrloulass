@@ -32,6 +32,6 @@
 
 ![mrloulass Github Stats](https://github-readme-stats.vercel.app/api?username=mrloulass&show_icons=true&hide_border=true&theme=dark&icon_color=00a2ff&text_color=ffc219)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrloulass&theme=dark&hide_border=true&text_color=ffff)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrloulass&theme=dark&hide_border=true&text_color=ffff)](https://github.com/mrloulass/github-readme-stats)
 
 [linkedin]: https://www.linkedin.com/in/louis-lassegue-4269531bb/
